@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 2013803e700554112a19d6c3fe8ea36a
+  m_Entries:
+  - m_Id: 89798991872
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636086116352
+    m_Key: Only
+    m_Metadata:
+      m_Items: []
+  - m_Id: 828776636416
+    m_Key: Tap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951422279680
+    m_Key: This
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2374960668672
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2650094428160
+    m_Key: Double
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2991204589568
+    m_Key: Triple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3051610955776
+    m_Key: Faster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689698811904
+    m_Key: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4280990818304
+    m_Key: Not Pressed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4799905914880
+    m_Key: Level End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4845674160128
+    m_Key: High Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4918722158592
+    m_Key: Scor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5137710964736
+    m_Key: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5233072660480
+    m_Key: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7710765473792
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8562452649308848128
+  references:
+    version: 2
+    RefIds:
+    - rid: 8562452649308848128
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1676460042850

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2013803e700554112a19d6c3fe8ea36a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8562452649308848136
+  m_TableData:
+  - m_Id: 89798991872
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636086116352
+    m_Localized: Only
+    m_Metadata:
+      m_Items: []
+  - m_Id: 828776636416
+    m_Localized: Tap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951422279680
+    m_Localized: This
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2374960668672
+    m_Localized: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2650094428160
+    m_Localized: Double points!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2991204589568
+    m_Localized: Triple points!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3051610955776
+    m_Localized: Faster!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689698811904
+    m_Localized: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4280990818304
+    m_Localized: You did not press anything for 20 seconds!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4799905914880
+    m_Localized: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4845674160128
+    m_Localized: 'High Score: {global.highScore}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452649308848136
+  - m_Id: 4918722158592
+    m_Localized: 'Score: {global.score}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452649308848136
+  - m_Id: 5137710964736
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5233072660480
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7710765473792
+    m_Localized: 'continue by
+
+      watching ad'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8562452649308848136
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e0af386804000000e0af3a79040000
